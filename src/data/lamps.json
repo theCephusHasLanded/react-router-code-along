@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Lemieux et Cic",
+        "style": "New Traditional",
+        "type": "Celing Lamp",
+        "price":"1000",
+        "image": "https://i.imgur.com/ruVd2Tr.png",
+        "id": "1"
+    },
+    {
+        "name": "Optimist",
+        "style": "Modern",
+        "type": "Table Lamp",
+        "price":"500",
+        "image": "https://i.imgur.com/vPu6scG.png",
+        "id": "2"
+    },
+    {
+        "name": "Possini Euro Branches",
+        "style": "New Traditional",
+        "type": "Ceiling Lamp",
+        "price":"1500",
+        "image": "https://i.imgur.com/tD1WHgP.png",
+        "id": "3"
+    },
+    {
+        "name": "Racoon",
+        "style": "Quirky",
+        "type": "Table Lamp",
+        "price":"150",
+        "image": "https://i.imgur.com/VUepj03.png",
+        "id": "4"
+    },
+    {
+        "name": "Ripple",
+        "style": "Modern",
+        "type": "Celing Lamp",
+        "price":"150",
+        "image": "https://i.imgur.com/SI0Xpeq.png",
+        "id": "5"
+    },
+    {
+        "name": "Tiffany Lillies",
+        "style": "Tiffany",
+        "type": "Table Lamp",
+        "price":"200000",
+        "image": "https://i.imgur.com/FeRW1VI.png",
+        "id": "6"
+    },
+    {
+        "name": "Trento",
+        "style": "Modern",
+        "type": "Ceiling Lamp",
+        "price":"899",
+        "image": "https://i.imgur.com/KV5DTS5.png",
+        "id": "7"
+    }
+]
