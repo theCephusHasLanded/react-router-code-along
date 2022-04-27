@@ -53,6 +53,8 @@ function App() {
 
 Next, let's define the area that will display the views. We are going to be swapping out the content inside the `main` tag, depending on the URL.
 
+**NOTE** Your app will break and not work until you complete the next step
+
 **src/App.js**
 
 ```js
@@ -146,6 +148,7 @@ export default function Header() {
 Now, when we click on the `h1` it takes us back to the home view.
 
 Let's add some more links in the `footer`
+
 **src/components/common/footer.js**
 
 ```js
@@ -164,6 +167,26 @@ import { Link } from "react-router-dom";
     </li>
   </ul>
 </footer>
+```
+
+**src/components/common/nav.js**
+
+```js
+import { Link } from "react-router-dom";
+```
+
+```js
+<nav>
+  <div>
+    <Link to="/lamps">
+      <h3>Lamps</h3>
+    </Link>
+
+    <Link to="/candles">
+      <h3>Candles</h3>
+    </Link>
+  </div>
+</nav>
 ```
 
 ## Make Views for Each Product

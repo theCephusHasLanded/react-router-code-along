@@ -1,7 +1,6 @@
 
 
 export default function ProductList({products, type}) {
- console.log(type)
     return (
         <section><h2>All {type}</h2>
         <article className="products">
