@@ -169,6 +169,8 @@ import { Link } from "react-router-dom";
 </footer>
 ```
 
+Let's be able to see all the candles and lamps by using the navigation bar.
+
 **src/components/common/nav.js**
 
 ```js
