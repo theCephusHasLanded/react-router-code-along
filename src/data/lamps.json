@@ -55,14 +55,7 @@
         "image": "https://i.imgur.com/KV5DTS5.png",
         "id": "7"
     },
-    {
-        "name": "Minimal Line",
-        "style": "Modern",
-        "type": "Floor",
-        "price":"109",
-        "image": "https://i.imgur.com/6X748GJ.png",
-        "id": "27"
-    },
+
     {
         "name": "Lite Source Kyle Black Metal Modern LED",
         "style": "Modern",
@@ -86,5 +79,46 @@
         "price":"399",
         "image": "https://i.imgur.com/6ox4kCO.png",
         "id": "30"
-    }   
+    } ,  
+    {
+        "name": "Pink Feather Gold Floor Lamp Unique Standing Tree",
+        "style": "Modern",
+        "type": "Floor",
+        "price":"199",
+        "image": "https://i.imgur.com/QHsREDY.png",
+        "id": "31"
+    }  , 
+    {
+        "name": "Mirodemi Luxury Gold Modern Parrot Floor Lamp",
+        "style": "Modern",
+        "type": "Floor",
+        "price":"399",
+        "image": "https://i.imgur.com/aTpU9Hy.png",
+        "id": "32"
+    } ,
+    {
+        "name": "Artiva Phuket 2 Light Rattan Handcrafted Twist",
+        "style": "Modern",
+        "type": "Floor",
+        "price":"399",
+        "image": "https://i.imgur.com/HtTaeMu.png",
+        "id": "33"
+    } ,
+    {
+        "name": "Post Modern Floor Human Face LED Standard Lamp",
+        "style": "Modern",
+        "type": "Floor",
+        "price":"525",
+        "image": "https://i.imgur.com/Mm8SQaN.png",
+        "id": "333"
+    } ,
+    {
+        "name": "Minimal Line",
+        "style": "Modern",
+        "type": "Floor",
+        "price":"109",
+        "image": "https://i.imgur.com/6X748GJ.png",
+        "id": "27"
+    }
 ]
+

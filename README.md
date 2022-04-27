@@ -277,3 +277,18 @@ There is a page called newsletter.
 Add a view for it at `/newsletter`
 
 When the button on that page is pressed make it redicect to the `about` page.
+
+## Super Bonus
+
+Add types to the nav so that it reads
+
+- Lamps
+  - Floor
+  - Ceiling
+  - Table
+- Candles
+  - Decorative
+  - Flameless
+  - Celebratory
+
+Then, when a user clicks on the type it shows a view of just the lamps (or candles) that match the type
