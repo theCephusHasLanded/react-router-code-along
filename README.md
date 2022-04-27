@@ -12,9 +12,43 @@
 
    This will install the libraries needed to run the tests.
 
-1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
+1. Open up the repository in VSCode. Follow along to complete the build.
 
 ## Set Up React Router DOM
+
+When you start this project, all the different components are visible on one page. Let's use React Router to create different views.
+
+Here are the different views we are going to create:
+
+<details><summary>Welcome</summary>
+
+![Welcome view](./assets/welcome-view.png)
+
+</details>
+
+<details><summary>About</summary>
+
+![about view](./assets/about-view.png)
+
+</details>
+
+<details><summary>Candles</summary>
+
+![candles view](./assets/candles-view.png)
+
+</details>
+
+<details><summary>Lamps</summary>
+
+![lamps view](./assets/lamps-view.png)
+
+</details>
+
+<details><summary>One Lamp (Show)</summary>
+
+![show view](./assets/show-view.png)
+
+</details>
 
 1. `npm install react-router-dom`
 
